@@ -21,13 +21,13 @@ Education is a fundamental right, not a privilege. We're on a mission to make __
 Clone the project
 
 ```bash
-  git clone git@github.com:infofest-unigoa/X.git
+  git clone git@github.com:NiranjanHebli/Education-for-all.git
 ```
 
 Go to the project directory
 
 ```bash
-cd X
+cd Education-for-all
 ```
 
 Navigate inside the client directory
